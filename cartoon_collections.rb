@@ -14,7 +14,7 @@ def list_dwarves(array)
   index = 0
 
   w%(array).each_with_index {|array, index|
-    array [item] = index
+    array[item] = index
   }
   end
 
