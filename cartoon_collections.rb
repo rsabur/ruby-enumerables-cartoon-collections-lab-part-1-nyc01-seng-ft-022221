@@ -14,5 +14,6 @@ def list_dwarves(array)
   index = 0
   array.each_with_index do |array, index|
     puts "#{array}.numbered"
+  end
 
 end
